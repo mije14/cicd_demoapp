@@ -2,7 +2,7 @@ build:
     build_starting:
         image: python:2
         commands:
-            - echo "Hello Mike's Wonderful World!"
+            - echo "Hello Wonderful World!"
     run_tests:
         image: python:2-alpine
         commands:
